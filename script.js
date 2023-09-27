@@ -39,3 +39,4 @@ for (const plan of validPlans) {
   planAnterior = plan;
 }
 console.log(filteredPlans);
+return filteredPlans;
